@@ -15,9 +15,9 @@ I recommend using Windows 10 LTSC, but you can use any version of Windows 10.
 |Reflect Sound Visu `^3`|Visual music|[Link](https://visualskins.com/skin/reflect-sound-visu)
 
 
-`^1` App is paid in Microsoft Store but we can use Portable Version for free. You can use Rainmeter version too, but I could not use it with TranslucentTB.
-`^2` You can use Wallpaper Engine if you have, but it's paid. So we're using Lively Wallpaper, a free alternative.
-`^3` Rainmeter skin. You should have Rainmeter to use them.
+- `^1` App is paid in Microsoft Store but we can use Portable Version for free. You can use Rainmeter version too, but I could not use it with TranslucentTB.
+- `^2` You can use Wallpaper Engine if you have, but it's paid. So we're using Lively Wallpaper, a free alternative.
+- `^3` Rainmeter skin. You should have Rainmeter to use them.
 
 # Install Apps
 ## TranslucentTB
